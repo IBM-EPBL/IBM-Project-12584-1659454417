@@ -1,0 +1,3 @@
+Assignment - 1
+
+10 code snippet using google Colab
