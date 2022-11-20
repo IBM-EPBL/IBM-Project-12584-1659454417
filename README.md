@@ -2,6 +2,8 @@
 Efficient Water Quality Analysis &amp; Prediction using Machine Learning
 Efficient Water Quality Analysis & Prediction using Machine Learning IBM-Project-25285-1659957544
 
+
+PROJECT TITLE:
 Efficient Water Quality Analysis & Prediction using Machine Learning
 
 Technology Used: Machine Learning
@@ -9,7 +11,8 @@ Technology Used: Machine Learning
 Team Id : PNT2022TMID29722
 
 Team Leader:
-              SWETHA V               REG N0:513119106090
+
+               SWETHA V              REG N0:513119106090
 
 Team Members :
 
@@ -23,12 +26,15 @@ Project Description :
 
 Project Objectives:
 
-                 To detect the quality of water. Make the application available for everyone. Building interactive UI to ensure user satisfaction. 
+      To detect the quality of water. Make the application available for everyone. Building interactive UI to ensure user satisfaction. 
+      
  Services Used:
 
-Anaconda Navigator  Jupyter Notebook  All necessary Python packages
+     Anaconda Navigator  
+     Jupyter Notebook  
+     All necessary Python packages
 
-Technical Architecture: 
+ 
                     ![image](https://user-images.githubusercontent.com/113245597/202774596-7449dfb6-dd14-4fd4-952c-099011680df3.png)
 
 
